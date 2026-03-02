@@ -1,4 +1,4 @@
-# Writing Manual
+# Waricha Writing Manual
 
 This repository is my technical writing manual.
 
@@ -8,7 +8,7 @@ content.
 ## How to use this manual
 
 - Start with `introduction.mdx`.
-- If you want the full system, read `process/overview.mdx`.
+- If you want the full writing system, read `process/overview.mdx`.
 
 ## Status
 
