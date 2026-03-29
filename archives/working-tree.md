@@ -54,8 +54,8 @@ Waricha Writing Manual (repo)
 ├── components.mdx                         [DOC][SAMPLE]
 ├── notice.mdx                             [DOC][SAMPLE]
 ├── quickstart.mdx                         [DOC][SAMPLE]
-└── resources/
-    ├── README.md                          [PRIVATE] rules for resources/
+└── materials/
+    ├── README.md                          [PRIVATE] rules for materials/
     ├── Checklists/
     │   └── Content Checklist (v1.1.0)/
     │       └── Content Checklist (v1.1.0).md  [PRIVATE] checklist freebie

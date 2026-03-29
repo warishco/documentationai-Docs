@@ -495,9 +495,9 @@ dedicated pages.
 
 - Treat these as free resources so readers can copy and adapt.
 - Keep each checklist versioned (so changes are trackable).
-- Prefer linking to the canonical file in `resources/`.
+- Prefer linking to the canonical file in `materials/`.
 
-## C1) Content checklist (`resources/Checklists/Content Checklist (v1.1.0)/Content Checklist (v1.1.0).md`)
+## C1) Content checklist (`materials/Checklists/Content Checklist (v1.1.0)/Content Checklist (v1.1.0).md`)
 
 ### H2 (C1): What it is
 
@@ -513,7 +513,7 @@ dedicated pages.
 
 ### H2 (C1): Future checklists
 
-- Add new checklists under `resources/Checklists/<Name (vX.Y.Z)>/`.
+- Add new checklists under `materials/Checklists/<Name (vX.Y.Z)>/`.
 - Keep one “canonical” checklist per folder.
 
 ## T1) Discovery brief template (`/templates/discovery-brief`)
